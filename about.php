@@ -55,7 +55,7 @@
             <a href="" class="contact_link3">
               <i class="fa fa-envelope" aria-hidden="true"></i>
               <span>
-              ug2322070@ines.ac.rw
+              www.rbc.gov.rw
               </span>
             </a>
           </div>
